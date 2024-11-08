@@ -1,4 +1,4 @@
-##  eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+##Eu sou Kayury Carneiro, estudante de ciencia da computação!
 
 <div>
   <a href="https://github.com/KayuryC">
